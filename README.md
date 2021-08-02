@@ -1,0 +1,4 @@
+- 👋 Olá, Eu me chamo Vinicius Marques, tenho 13 anos.
+- 👀 Eu estou aprendendendo ReactJS 3/5.
+- 🌱 Eu programo utilizando NodeJS.
+- 💞️ Procuro Alguem que me ame.
